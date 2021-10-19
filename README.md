@@ -5,8 +5,8 @@ It's SASE 1st technical workshop events.
 The tutorial slides can be found in root folder -> "SASE_Technique_Workshop.pptx"
 
 
-Utilizing ExpressJS back end framework to host web applications for SASE technical workshop events.
+Utilized ExpressJS back end framework to host web applications for SASE technical workshop events.
 
-Introduced basic programming concepts - syntax, variables, control statement, data structure to club members.
+Introduced basic programming concepts such as compiler, syntax, variables, control statement, data structure to club members.
 
-Illustrated basic processes of web application through building web applications in real-time.
+Illustrated basic processes of designing web applications through building website in real-time.
